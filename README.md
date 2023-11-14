@@ -6,9 +6,11 @@ of the player and controller support has also been added.
 # Installation
 `git` and `pip` are both required to install Gravitational Asteroids. To clone the repository, run the
 following commands:
-`mkdir Gravitational_Asteroids  
-cd Gravitational_Asteroids/  
-git clone https://github.com/heidelbergah/Gravitational_Asteroids`
+```
+mkdir Gravitational_Asteroids
+cd Gravitational_Asteroids/
+git clone https://github.com/heidelbergah/Gravitational_Asteroids
+```
 
 # Controls
 To navigate through the menu, use the arrow keys, and use 'enter' to select/toggle. Use W to thrust
