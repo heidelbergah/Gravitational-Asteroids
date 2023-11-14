@@ -11,7 +11,10 @@ mkdir Gravitational_Asteroids
 cd Gravitational_Asteroids/
 git clone https://github.com/heidelbergah/Gravitational_Asteroids
 ```
-
+To execute the game, simply run the `main.py` file:
+```
+python3 main.py
+```
 # Controls
 To navigate through the menu, use the arrow keys, and use 'enter' to select/toggle. Use W to thrust
 the player, A to rotate left, D to rotate right, and the space bar to fire.
