@@ -11,6 +11,7 @@ git clone https://github.com/heidelbergah/Gravitational_Asteroids
 ```
 To execute the game, simply run the `main.py` file:
 ```
+cd Gravitational_Asteroids/
 python3 main.py
 ```
 # Controls
